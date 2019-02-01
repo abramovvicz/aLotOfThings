@@ -2,7 +2,7 @@
  * Copyright (c) 2018. by 10bashi - I just started learning programming. So please forgive for my mistakes!
  */
 
-package advent.of.code;
+package advent.of.code.day1;
 
 public class Frequency {
     private static int frequency = 0;
